@@ -1,0 +1,61 @@
+@font-face {
+  font-family: Circe-Bold;
+  src:url(../fonts/Circe/Circe/Circe-Bold.ttf);
+}
+
+@font-face {
+  font-family: Circe-ExtraBold;
+  src:url(../fonts/Circe/Circe/Circe-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family:Circe-Regular;
+  src:url(../fonts/Circe/Circe/Circe-Regular.ttf);
+}
+
+@font-face {
+  font-family:Circe-Light;
+  src:url(../fonts/Circe/Circe/Circe-Light.ttf);
+}
+@font-face {
+  font-family:'Open Sans Regular';
+  src:url(../fonts/Open Sans/opensans.ttf);
+}
+@font-face {
+  font-family:'Open Sans Bold';
+  src:url(../fonts/Open Sans/opensansbold.ttf);
+}
+@font-face {
+  font-family:'Open Sans Extrabold';
+  src:url(../fonts/Open Sans/opensansextrabold.ttf);
+}
+@font-face {
+  font-family:'Open Sans Italic';
+  src:url(../fonts/Open Sans/opensansitalic.ttf);
+}
+@font-face {
+  font-family:Roboto-Black;
+  src:url(../fonts/Roboto/Roboto-Black.ttf);
+}
+@font-face {
+  font-family:Roboto-Bold;
+  src:url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+@font-face {
+  font-family:Roboto-BoldCondensed;
+  src:url(../fonts/Roboto/Roboto-BoldCondensed.ttf);
+}
+@font-face {
+  font-family:Roboto-Light;
+  src:url(../fonts/Roboto/Roboto-light.ttf);
+}
+
+@font-face {
+  font-family:Roboto-Medium;
+  src:url(../fonts/Roboto/Roboto-Medium.ttf);
+}
+
+@font-face {
+  font-family:Roboto-Regular;
+  src:url(../fonts/Roboto/Roboto-Regular.ttf);
+}
